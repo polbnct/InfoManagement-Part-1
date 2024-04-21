@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.parent-class{
+    text-align: center;
+}
+
+.my-name {
+    margin: 10px;
+    font-weight: bold;
+    font-display: arial;
+}
+
+.text-1 {
+    margin: 10px;
+    font-display: arial;
+}
+
+.my-hobbies {
+    margin: 10px;
+    list-style-type: circle;
+}
+
+.know-more {
+    margin: 30px;
+}
+
+.secret-text {
+    opacity: 0.2;
+    margin: 10px;
+}
